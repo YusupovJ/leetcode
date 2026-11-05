@@ -3,10 +3,10 @@
  * @param {string} t
  * @return {boolean}
  */
-var isAnagram = function (s, t) {
+var isAnagram = function (s: string, t: string): boolean {
   if (s.length !== t.length) return false;
 
-  const count = {};
+  const count: Record<string, number> = {};
 
   for (const char of s) {
     if (char in count) {

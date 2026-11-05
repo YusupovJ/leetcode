@@ -1,5 +1,5 @@
-function containsDuplicate(nums) {
-  const set = new Set();
+function containsDuplicate(nums: number[]): boolean {
+  const set = new Set<number>();
 
   for (const num of nums) {
     if (set.has(num)) return true;

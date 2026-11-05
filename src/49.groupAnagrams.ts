@@ -2,8 +2,8 @@
  * @param {string[]} strs
  * @return {string[][]}
  */
-var groupAnagrams = function (strs) {
-  const map = new Map();
+var groupAnagrams = function (strs: string[]): string[][] {
+  const map = new Map<string, Array<string>>();
   for (const str of strs) {
     const hashKey = Array(26).fill(0);
 
@@ -17,7 +17,7 @@ var groupAnagrams = function (strs) {
       map.set(key, []);
     }
 
-    map.get(key).push(str);
+    map.get(key)!.push(str);
   }
 
   return Array.from(map.values());
