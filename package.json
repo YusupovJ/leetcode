@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git+https://github.com/YusupovJ/leetcode.git"
   },
+  "scripts": {
+    "start": "tsx"
+  },
   "keywords": [
     "leetcode"
   ],
