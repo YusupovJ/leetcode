@@ -3,7 +3,7 @@
 ## Текущий статус
 
 - **Текущий раздел:** 1. Arrays & Hashing
-- **Следующая задача на очереди:** [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) (Easy)
+- **Следующая задача на очереди:** [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) (Medium)
 
 ---
 
@@ -18,8 +18,8 @@
 - [x] **[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)** (Medium) — _Bucket Sort за $O(n)$ времени и памяти_
   - [ ] **[451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)** (Medium) — _(Закрепление: Bucket Sort / частоты)_
 - [x] **[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)** (Medium) — _Префиксные и суффиксные накопления за $O(n)$ времени и $O(1)$ памяти_
-  - [ ] **[724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)** (Easy) — **ТЕКУЩАЯ** _(Закрепление: базовые префиксные суммы)_
-  - [ ] **[560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)** (Medium) — _(Закрепление: префиксные суммы + Hash Map)_
+  - [x] **[724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)** (Easy) — _Базовые префиксные суммы за $O(n)$ времени и $O(1)$ памяти_
+  - [ ] **[560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)** (Medium) — **ТЕКУЩАЯ** _(Закрепление: префиксные суммы + Hash Map)_
 - [ ] **[271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)** (Medium)
   - [ ] **[443. String Compression](https://leetcode.com/problems/string-compression/)** (Medium) — _(Закрепление: сжатие строк и разделители)_
 - [ ] **[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)** (Medium)
