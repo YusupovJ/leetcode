@@ -3,7 +3,7 @@
 ## Текущий статус
 
 - **Текущий раздел:** 1. Arrays & Hashing
-- **Следующая задача на очереди:** [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) (Medium)
+- **Следующая задача на очереди:** [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) (Medium)
 
 ---
 
@@ -19,7 +19,7 @@
   - [ ] **[451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)** (Medium) — _(Закрепление: Bucket Sort / частоты)_
 - [x] **[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)** (Medium) — _Префиксные и суффиксные накопления за $O(n)$ времени и $O(1)$ памяти_
   - [x] **[724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)** (Easy) — _Базовые префиксные суммы за $O(n)$ времени и $O(1)$ памяти_
-  - [ ] **[560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)** (Medium) — **ТЕКУЩАЯ** _(Закрепление: префиксные суммы + Hash Map)_
+  - [x] **[560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)** (Medium) — _Префиксные суммы + Hash Map за $O(n)$ времени и $O(n)$ памяти_
 - [ ] **[271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)** (Medium)
   - [ ] **[443. String Compression](https://leetcode.com/problems/string-compression/)** (Medium) — _(Закрепление: сжатие строк и разделители)_
 - [ ] **[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)** (Medium)
