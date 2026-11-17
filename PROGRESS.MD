@@ -3,7 +3,7 @@
 ## Текущий статус
 
 - **Текущий раздел:** 1. Arrays & Hashing
-- **Следующая задача на очереди:** [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) (Medium)
+- **Следующая задача на очереди:** [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) (Medium)
 
 ---
 
@@ -22,7 +22,7 @@
   - [x] **[560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)** (Medium) — _Префиксные суммы + Hash Map за $O(n)$ времени и $O(n)$ памяти_
 - [x] **[271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)** (Medium) — _Length-prefixed framing за $O(N)$ времени и $O(1)$ памяти_
   - [ ] **[443. String Compression](https://leetcode.com/problems/string-compression/)** (Medium) — _(Закрепление: сжатие строк и разделители)_
-- [ ] **[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)** (Medium)
+- [x] **[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)** (Medium) — _Синхронная валидация строк, столбцов и подквадратов за $O(1)$ времени и $O(1)$ памяти_
 - [ ] **[128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)** (Medium)
 
 ## 2. Two Pointers (Два указателя)
