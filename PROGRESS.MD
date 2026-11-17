@@ -2,8 +2,8 @@
 
 ## Текущий статус
 
-- **Текущий раздел:** 1. Arrays & Hashing
-- **Следующая задача на очереди:** [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) (Medium)
+- **Текущий раздел:** 2. Two Pointers
+- **Следующая задача на очереди:** [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) (Easy)
 
 ---
 
@@ -23,7 +23,7 @@
 - [x] **[271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)** (Medium) — _Length-prefixed framing за $O(N)$ времени и $O(1)$ памяти_
   - [ ] **[443. String Compression](https://leetcode.com/problems/string-compression/)** (Medium) — _(Закрепление: сжатие строк и разделители)_
 - [x] **[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)** (Medium) — _Синхронная валидация строк, столбцов и подквадратов за $O(1)$ времени и $O(1)$ памяти_
-- [ ] **[128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)** (Medium)
+- [x] **[128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)** (Medium) — _Поиск начал последовательностей через Hash Set за $O(n)$ времени и $O(n)$ памяти_
 
 ## 2. Two Pointers (Два указателя)
 
