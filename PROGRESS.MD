@@ -2,17 +2,17 @@
 
 ## Текущий статус
 
-- **Текущий раздел:** 2. Two Pointers
-- **Следующая задача на очереди:** [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) (Easy)
+- **Текущий раздел:** 1. Arrays & Hashing (Закрепление)
+- **Следующая задача на очереди:** [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) (Medium)
 
 ---
 
 ## 1. Arrays & Hashing (Массивы и Хэш-таблицы)
 
 - [x] **[1. Two Sum](https://leetcode.com/problems/two-sum/)** (Easy) — _Hash Map за $O(n)$ времени и $O(n)$ памяти_
-  - [ ] **[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)** (Easy) — _(Закрепление: Hash Set)_
+  - [x] **[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)** (Easy) — _Hash Set за $O(n)$ времени и $O(n)$ памяти_
 - [x] **[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)** (Easy) — _Frequency Counter / Hash Map за $O(n)$_
-  - [ ] **[383. Ransom Note](https://leetcode.com/problems/ransom-note/)** (Easy) — _(Закрепление: частотный подсчет)_
+  - [x] **[383. Ransom Note](https://leetcode.com/problems/ransom-note/)** (Easy) — _Частотный словарь за $O(N + M)$ времени и $O(1)$ памяти_
 - [x] **[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)** (Medium) — _Hash Map с ключом-сигнатурой_
   - [ ] **[438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)** (Medium) — _(Закрепление: сигнатуры и скользящее окно)_
 - [x] **[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)** (Medium) — _Bucket Sort за $O(n)$ времени и памяти_
