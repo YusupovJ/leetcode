@@ -3,7 +3,7 @@
 ## Текущий статус
 
 - **Текущий раздел:** 1. Arrays & Hashing (Закрепление)
-- **Следующая задача на очереди:** [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) (Medium)
+- **Следующая задача на очереди:** [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) (Medium)
 
 ---
 
@@ -14,7 +14,7 @@
 - [x] **[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)** (Easy) — _Frequency Counter / Hash Map за $O(n)$_
   - [x] **[383. Ransom Note](https://leetcode.com/problems/ransom-note/)** (Easy) — _Частотный словарь за $O(N + M)$ времени и $O(1)$ памяти_
 - [x] **[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)** (Medium) — _Hash Map с ключом-сигнатурой_
-  - [ ] **[438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)** (Medium) — _(Закрепление: сигнатуры и скользящее окно)_
+  - [x] **[438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)** (Medium) — _Фиксированное скользящее окно за $O(N)$ времени и $O(1)$ памяти_
 - [x] **[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)** (Medium) — _Bucket Sort за $O(n)$ времени и памяти_
   - [ ] **[451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)** (Medium) — _(Закрепление: Bucket Sort / частоты)_
 - [x] **[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)** (Medium) — _Префиксные и суффиксные накопления за $O(n)$ времени и $O(1)$ памяти_
