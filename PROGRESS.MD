@@ -3,7 +3,7 @@
 ## Текущий статус
 
 - **Текущий раздел:** 1. Arrays & Hashing (Закрепление)
-- **Следующая задача на очереди:** [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) (Medium)
+- **Следующая задача на очереди:** [443. String Compression](https://leetcode.com/problems/string-compression/) (Medium)
 
 ---
 
@@ -16,7 +16,7 @@
 - [x] **[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)** (Medium) — _Hash Map с ключом-сигнатурой_
   - [x] **[438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)** (Medium) — _Фиксированное скользящее окно за $O(N)$ времени и $O(1)$ памяти_
 - [x] **[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)** (Medium) — _Bucket Sort за $O(n)$ времени и памяти_
-  - [ ] **[451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)** (Medium) — _(Закрепление: Bucket Sort / частоты)_
+  - [x] **[451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)** (Medium) — _Bucket Sort за $O(N)$ времени и $O(N)$ памяти_
 - [x] **[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)** (Medium) — _Префиксные и суффиксные накопления за $O(n)$ времени и $O(1)$ памяти_
   - [x] **[724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)** (Easy) — _Базовые префиксные суммы за $O(n)$ времени и $O(1)$ памяти_
   - [x] **[560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)** (Medium) — _Префиксные суммы + Hash Map за $O(n)$ времени и $O(n)$ памяти_
