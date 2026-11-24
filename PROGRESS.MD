@@ -2,8 +2,8 @@
 
 ## Текущий статус
 
-- **Текущий раздел:** 1. Arrays & Hashing (Закрепление)
-- **Следующая задача на очереди:** [443. String Compression](https://leetcode.com/problems/string-compression/) (Medium)
+- **Текущий раздел:** 2. Two Pointers (Два указателя)
+- **Следующая задача на очереди:** [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) (Easy)
 
 ---
 
@@ -21,7 +21,7 @@
   - [x] **[724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)** (Easy) — _Базовые префиксные суммы за $O(n)$ времени и $O(1)$ памяти_
   - [x] **[560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)** (Medium) — _Префиксные суммы + Hash Map за $O(n)$ времени и $O(n)$ памяти_
 - [x] **[271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)** (Medium) — _Length-prefixed framing за $O(N)$ времени и $O(1)$ памяти_
-  - [ ] **[443. String Compression](https://leetcode.com/problems/string-compression/)** (Medium) — _(Закрепление: сжатие строк и разделители)_
+  - [x] **[443. String Compression](https://leetcode.com/problems/string-compression/)** (Medium) — _In-place два указателя (Read/Write) за $O(n)$ времени и $O(1)$ памяти_
 - [x] **[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)** (Medium) — _Синхронная валидация строк, столбцов и подквадратов за $O(1)$ времени и $O(1)$ памяти_
 - [x] **[128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)** (Medium) — _Поиск начал последовательностей через Hash Set за $O(n)$ времени и $O(n)$ памяти_
 
