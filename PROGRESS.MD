@@ -3,7 +3,7 @@
 ## Текущий статус
 
 - **Текущий раздел:** 2. Two Pointers (Два указателя)
-- **Следующая задача на очереди:** [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) (Easy)
+- **Следующая задача на очереди:** [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) (Medium)
 
 ---
 
@@ -28,7 +28,7 @@
 ## 2. Two Pointers (Два указателя)
 
 - [x] **[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)** (Easy) — _Два указателя навстречу in-place за $O(n)$ времени и $O(1)$ памяти_
-  - [ ] **[680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)** (Easy) — _(Закрепление: два указателя навстречу с допуском ошибки)_
+  - [x] **[680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)** (Easy) — _Два указателя навстречу с одной «поблажкой» (два прохода: пропуск слева / справа) за $O(n)$ времени и $O(1)$ памяти_
 - [ ] **[167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)** (Medium)
   - [ ] **[977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)** (Easy) — _(Закрепление: схождение указателей с краев)_
 - [ ] **[15. 3Sum](https://leetcode.com/problems/3sum/)** (Medium)
